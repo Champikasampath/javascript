@@ -1,0 +1,30 @@
+/**
+ * Created by champika on 9/24/14.
+ */
+function calculate()
+{
+    'use strict';
+    var total;
+
+    var qty=document.getElementById("quantity").value;
+    var taxRate=document.getElementById("tax").value;
+    var price=document.getElementById("price").value;
+    var discount=document.getElementById("discount").value;
+
+    taxRate /= 100;
+    taxRate++;
+    total *= tax;
+
+    total -= discount;
+
+    document.getElementById("total").value=total;
+
+    return false;
+}// end of the calculate function
+
+function init()
+{
+    'use strict';
+    var shoppingForm= document.getElementById("shoppingForm");
+    shoppingForm.onsubmit=calculate;
+}
