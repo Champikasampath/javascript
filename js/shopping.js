@@ -11,11 +11,15 @@ function calculate()
     var price=document.getElementById("price").value;
     var discount=document.getElementById("discount").value;
 
+    total = qty * price;
+
     taxRate /= 100;
     taxRate++;
-    total *= tax;
+    total *= taxRate;
 
     total -= discount;
+
+    total=total.toFixed(2);
 
     document.getElementById("total").value=total;
 
