@@ -1,19 +1,34 @@
 <!DOCTYPE html>
-<html ng-app>
+<html>
 <title></title>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.3/angular.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
 
-<div ng-controller="Ctrl">
-    <input type="text" ng-model="name"/>
-    <h1>{{name}}</h1>
-    <h1>age is {{age}}</h1>
+<div ng-app>
+    <div ng-controller="testCtrl">
+        <input type="text" ng-model="name" id="username"/>
+        <h1>{{name}}</h1>
+        <h1>age is {{age * 2}}</h1>
+    </div>
+
+    <div ng-controller="testCtrl1">
+        <input type="text" ng-model="name"/>
+        <h1>{{name}}</h1>
+        <h1>age is {{age * 4}}</h1>
+    </div>
+
+    <script>
+        var testCtrl = function($scope){
+            $scope.name="champika";
+            $scope.age=20;
+        };
+
+        var testCtrl1 = function($scope){
+            $scope.name="champika";
+            $scope.age=20;
+            $scope.$watch('name',function(){
+                document.getElementById("username").value=$scope.name;
+            });
+        };
+    </script>
 </div>
-
-<script>
-    var Ctrl = function($scope){
-        $scope.name="chmpika";
-        $scope.age=20;
-    };
-</script>
-
 </html>
