@@ -11,9 +11,9 @@
     </div>
 
     <div ng-controller="testCtrl1">
-        <input type="text" ng-model="name"/>
-        <h1>{{name}}</h1>
-        <h1>age is {{age * 4}}</h1>
+        <input type="text" ng-model="name1"/>
+        <h1>{{name1}}</h1>
+        <h1>age is {{age1 * 4}}</h1>
     </div>
 
     <script>
@@ -23,11 +23,11 @@
         };
 
         var testCtrl1 = function($scope){
-            $scope.name="champika";
-            $scope.age=20;
-            $scope.$watch('name',function(){
-                document.getElementById("username").value=$scope.name;
-            });
+            $scope.name1="champika1";
+            $scope.age1=20;
+            /*$scope.$watch('name',function(){
+
+            });*/
         };
     </script>
 </div>
