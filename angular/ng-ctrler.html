@@ -2,33 +2,56 @@
 <html>
 <title></title>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
 
 <div ng-app>
-    <div ng-controller="testCtrl">
+    <!--div ng-controller="testCtrl">
         <input type="text" ng-model="name" id="username"/>
         <h1>{{name}}</h1>
         <h1>age is {{age * 2}}</h1>
+    </div-->
+
+    <div ng-controller="testCtrl">
+        <input type="number" ng-model="value"/>
+        <h1>{{name}}</h1>
+        <input type="text" ng-model="value2">
     </div>
 
-    <div ng-controller="testCtrl1">
-        <input type="text" ng-model="name1"/>
+    <!--div ng-controller="testCtrl1 as test1">
+        <input type="number" ng-model="test1.value"/>
         <h1>{{name1}}</h1>
-        <h1>age is {{age1 * 4}}</h1>
-    </div>
+        <h1>age is {{test1.total()}}</h1>
+    </div-->
 
     <script>
         var testCtrl = function($scope){
+            $scope.x=['x','y','z'];
+
             $scope.name="champika";
             $scope.age=20;
+
+            $scope.$watch('value',function(){
+                var n=$scope.x[$scope.value];
+                $scope.value2=n;
+                console.log(n);
+            });
+
+
+            console.log(Math.floor(45/12)+"years "+ 45 % 12 +" months");
         };
 
-        var testCtrl1 = function($scope){
-            $scope.name1="champika1";
-            $scope.age1=20;
-            /*$scope.$watch('name',function(){
 
-            });*/
-        };
+
+        /*var testCtrl1 = function($scope){
+            this.value=10;
+            this.total=function total()
+            {
+                return this.value*2;
+            }
+            $scope.$watch('name',function(){
+
+            });
+        };*/
     </script>
 </div>
 </html>

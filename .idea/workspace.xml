@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbeb2f6d-237a-4bf8-9bdb-994995fc5b5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular/ng-ctrler.html" afterPath="$PROJECT_DIR$/angular/ng-ctrler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="javascript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,53 +25,7 @@
     <favorites_list name="javascript" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ng-ctrler.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/angular/ng-ctrler.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="17" selection-start="775" selection-end="775" vertical-scroll-proportion="0.73802394" vertical-offset="0" max-vertical-offset="668">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shopping.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/shopping.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="663">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="69" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="9" max-vertical-offset="680">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calculater.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calculater.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="36" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="646">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="170" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -89,10 +44,10 @@
         <option value="$PROJECT_DIR$/calculater.html" />
         <option value="$PROJECT_DIR$/js/shopping.js" />
         <option value="$PROJECT_DIR$/angular/index.html" />
-        <option value="$PROJECT_DIR$/angular/ng-ctrler.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-1/homeslideshow.css" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-1/page--front.tpl.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-1/style.css" />
+        <option value="$PROJECT_DIR$/angular/ng-ctrler.html" />
       </list>
     </option>
   </component>
@@ -129,6 +84,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,11 +133,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="F:/ionic/shawbrook-demo/shawbrook" />
+    <property name="last_opened_file_path" value="D:/shawbrook-demo/shawbrook" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -232,7 +187,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -240,7 +195,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17971759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18356867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -248,11 +203,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -292,6 +247,76 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular/ng-ctrler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0" vertical-offset="268" max-vertical-offset="992">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shopping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="69" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculater.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="170" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/ng-ctrler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="17" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shopping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="69" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculater.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="170" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/angular/ng-ctrler.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="12" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
@@ -390,20 +415,6 @@
         <state line="1" column="19" selection-start="39" selection-end="39" vertical-scroll-proportion="0.024390243" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="69" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="9" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="170" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calculater.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="36" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="646">
@@ -413,35 +424,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/shopping.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+        <state line="18" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.41379312" vertical-offset="0" max-vertical-offset="696">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-1/homeslideshow.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="285" column="0" selection-start="5916" selection-end="5916" vertical-scroll-proportion="0.7550432" vertical-offset="4321" max-vertical-offset="5151">
+        <state line="21" column="69" selection-start="705" selection-end="705" vertical-scroll-proportion="0.5007452" vertical-offset="0" max-vertical-offset="671">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-1/style.css">
+    <entry file="file://$PROJECT_DIR$/angular/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="273" column="23" selection-start="6732" selection-end="6732" vertical-scroll-proportion="-4.8839693" vertical-offset="7840" max-vertical-offset="207723">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-1/page--front.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="99" selection-start="6386" selection-end="6405" vertical-scroll-proportion="0.33227345" vertical-offset="2613" max-vertical-offset="7820">
+        <state line="7" column="0" selection-start="170" selection-end="269" vertical-scroll-proportion="0.16691506" vertical-offset="0" max-vertical-offset="671">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular/ng-ctrler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="17" selection-start="775" selection-end="775" vertical-scroll-proportion="0.73802394" vertical-offset="0" max-vertical-offset="668">
+        <state line="29" column="35" selection-start="892" selection-end="892" vertical-scroll-proportion="0.21311475" vertical-offset="321" max-vertical-offset="992">
           <folding />
         </state>
       </provider>
